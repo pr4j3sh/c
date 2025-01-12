@@ -2,7 +2,7 @@
 
 A `c` package/library template that uses Make build tool.
 
-## Instatallation
+## Installation
 
 ```bash
 npm create @pr4j3sh/frames@latest c mypkg
